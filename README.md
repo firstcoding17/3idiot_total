@@ -6,7 +6,15 @@
 
 곧 추가 예정(2021년 10월 중으로 업데이트 끝낼 예정)
 1. 호서대학교 빅데이터 분석
-2. 호서대학교 AI
+
+
+데이터 -> 
+
+
+전세계 ->https://github.com/owid/covid-19-data/tree/master/public/data
+
+
+3. 호서대학교 AI
 
 
 
