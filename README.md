@@ -13,7 +13,7 @@
 의료 레벨-> 기대수명(https://data.worldbank.org/indicator/SP.DYN.LE00.IN?end=2019&start=1960&view=chart&year=2019) 정부정책, 증가대비 사망률(https://github.com/owid/covid-19-data/tree/master/public/data)
 
 
-코로나->
+코로나데이터
 
 전세계 -> (https://github.com/owid/covid-19-data/tree/master/public/data)
 
