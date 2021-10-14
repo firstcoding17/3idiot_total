@@ -3,6 +3,7 @@ import matplotlib.pyplot as MAT
 
 def Main():
     covid = pd.read_csv('owid-covid-data.csv')
+    print(covid)
 
 
 
